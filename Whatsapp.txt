@@ -11,3 +11,9 @@ Author: janani
 4. attchements(image, audio, video) code
 
 5. Hidding the last seen
+
+6. Adding the audio feature
+
+7. Adding the video feature
+
+
