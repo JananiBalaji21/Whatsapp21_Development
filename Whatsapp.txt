@@ -9,3 +9,5 @@ Author: janani
 3. last seen code
 
 4. attchements(image, audio, video) code
+
+5. Hidding the last seen
